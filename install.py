@@ -1,0 +1,1 @@
+!pip install bokeh jupyter_bokeh
